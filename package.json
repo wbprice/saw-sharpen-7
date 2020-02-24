@@ -1,0 +1,14 @@
+{
+  "name": "saw-sharpen-7",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blaine Price",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.9.0"
+  }
+}
