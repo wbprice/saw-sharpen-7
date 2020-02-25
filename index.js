@@ -1,9 +1,3 @@
-// Write a function that accepts two dates
-// announcement date
-// too early time
-// At ${announcement date}, person said ${too early time} was too early
-// announcement date can be localized, but too early time cannot.
-
 const { setHours, setMinutes } = require("date-fns");
 const { zonedTimeToUtc, utcToZonedTime, format } = require("date-fns-tz");
 
