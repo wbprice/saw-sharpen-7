@@ -15,3 +15,4 @@ const date1 = setMinutes(setHours(new Date(), 6), 51);
 const date2 = setMinutes(setHours(new Date(), 4), 30);
 
 console.log(format_too_early_msg(date1, date2));
+// At 11:51, Steve said 04:30 is too early.
