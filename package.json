@@ -9,6 +9,7 @@
   "author": "Blaine Price",
   "license": "MIT",
   "dependencies": {
-    "date-fns": "^2.9.0"
+    "date-fns": "^2.9.0",
+    "date-fns-tz": "^1.0.10"
   }
 }
